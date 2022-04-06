@@ -2,3 +2,4 @@
 - Whiskey
 - Popcorn
 - Wine
+- Soap
